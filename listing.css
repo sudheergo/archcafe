@@ -1,0 +1,139 @@
+body{
+    margin:auto;
+    background-color: #f4e7e1;
+}
+/*Header Css */
+#header{
+   height:60px; 
+   background-color:#d2a08c
+}
+#icon{
+    font-size:30px;
+    color:#13648c;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 1.5%;
+    margin-top: 5px;
+}
+a{
+    text-decoration:none;
+}
+#social{
+    float: right;
+}
+.simg{
+    height:50px;
+    width:50px
+}
+#outerborder{
+    height:939px;
+    width:1326px;
+    margin-left: 34px;
+    margin-top: 36px;
+}
+#search{
+    height:891px;
+    width:99%;
+    background-image: url("20-208246_background-menu-restaurant-png-png-download-menu-background.png");
+    background-color:burlywood;
+    background-repeat: no-repeat;
+    margin-left: -11px;
+    margin-top: -34px;
+    background-size: cover;
+}
+/*main content*/
+.tilecontainer{
+    height:816px;
+    width:67%;
+    margin-left: 427px;
+    margin-top: 21px;
+}
+.fliters{
+    height:558px;
+    width:36%;
+    border:2px solid black;
+    margin-left: -360px;
+    margin-top: -1px;
+    float:left;
+}
+.text{
+    height:20px;
+    width:20px;
+    text-decoration: underline;
+    color:#cd38a6;
+    margin-left: 58%;
+    margin-top: 32px;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+}
+.tilecomponent1{
+    height:270px;
+    width:92%;
+    line-height: 20px;
+    border:2px solid red;
+    box-shadow: 10px 11px 21px;
+    margin-left: -4px;
+    margin-top: -26px;
+}
+.tilecomponent2{
+    height:236px;
+    width:92%;
+    line-height: 20px;
+    border:2px solid rgb(252, 3, 3);
+    box-shadow: 10px 11px 21px;
+    margin-left: -4px;
+    margin-top: -26px;
+    line-height: 20px;
+}
+.tilecomponent3{
+    height:244px;
+    width:62%;
+    border:2px solid red;
+    box-shadow: 10px 11px 21px;
+    margin-left: 418px;
+    margin-top: -251px;
+    line-height: 20px;
+}
+.footer{
+    height:57px;
+    width:98%;
+    border:2px solid black;
+    margin-left: 20px;
+    margin-top: -70px;
+    text-align: center;
+    font-size: 20px;
+    font-weight:bold;
+    background-color: #59e3b6;
+}
+.contact{
+    height:20px;
+    margin-left: -1101px;
+    margin-top:-33px;
+
+}
+h3{
+    height:35px;
+    width:157%;
+    margin-left:168px;
+    margin-top:35px;
+    position:absolute;
+}
+.mail{
+    float:right;
+}
+.smail{
+    height:35px;
+    width:5%;
+    margin-left: -174px;
+    margin-top:-12px;
+    position:absolute;
+}
+h4{
+    height:35px;
+    width:5%;
+    margin-left: -250px;
+    margin-top:22px;
+    position:absolute;
+
+}
